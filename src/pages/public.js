@@ -7,7 +7,7 @@ export default React.createClass({
     return (
       <NavHelper className='container'>
         <header role='banner'>
-          <h1>Ampersand Buddy</h1>
+          <h1>Code Pal</h1>
         </header>
         <div>
           <p>We help you finding a new buddy for you, because, we can&trade;</p>

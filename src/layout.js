@@ -12,7 +12,7 @@ export default React.createClass({
           <input id='menu-toggle' className='menu-toggle' type='checkbox'/>
           <label htmlFor='menu-toggle'>Menu</label>
           <ul className='list-unstyled list-inline cf'>
-            <li>Ampersand Buddy</li>
+            <li>Code Pal</li>
             <li><a href='/repos'>About Us</a></li>
             <li><a href='#'>Products</a></li>
             <li><a href='#'>Careers</a></li>
